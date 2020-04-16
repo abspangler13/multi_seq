@@ -16,6 +16,16 @@ plot(cars)
 
 ![](multi-seq_analysis_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
+```r
+x = 1
+y = 2
+x + y
+```
+
+```
+## [1] 3
+```
+
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
 
 When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
