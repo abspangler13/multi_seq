@@ -1,0 +1,33 @@
+---
+title: "R Notebook"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+
+```{r}
+plot(cars)
+```
+
+```{r}
+x = 1
+y = 2
+x+y
+```
+
+```{r}
+y = 2
+x = 3
+x+y
+```
+
+Dependencies 
+
+library(devtools)
+library(singleCellNet)
+library(dplyr)
+library(Seurat)
+
+
+
