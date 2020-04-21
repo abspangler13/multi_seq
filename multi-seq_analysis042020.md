@@ -15,10 +15,13 @@ plot(cars)
 
 Dependencies 
 
-library(devtools)\n
-library(singleCellNet)\n
-library(dplyr)\n
-library(Seurat)\n
+library(devtools)
+
+library(singleCellNet)
+
+library(dplyr)
+
+library(Seurat)
 
 
 
