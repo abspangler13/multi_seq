@@ -13,16 +13,20 @@ plot(cars)
 
 ![](multi-seq_analysis042020_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
-
-
-
-
 Dependencies 
 
-library(devtools)
-library(singleCellNet)
-library(dplyr)
-library(Seurat)
+library(devtools)\n
+library(singleCellNet)\n
+library(dplyr)\n
+library(Seurat)\n
+
+
+
+
+
+
+
+
 
 
 

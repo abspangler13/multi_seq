@@ -10,20 +10,24 @@ output:
 plot(cars)
 ```
 
-```{r}
-
-```
-
-```{r}
-
-```
-
 Dependencies 
 
-library(devtools)
-library(singleCellNet)
-library(dplyr)
-library(Seurat)
+library(devtools)\n
+library(singleCellNet)\n
+library(dplyr)\n
+library(Seurat)\n
+
+
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
 
 
 
